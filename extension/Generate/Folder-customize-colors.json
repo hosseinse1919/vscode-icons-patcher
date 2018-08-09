@@ -1,0 +1,23 @@
+{
+    "func":"green-400",
+    "generate":"green-400",
+    "global-access":"purple-400",
+    "external":"deep-orange-400",
+    "external-call":"deep-orange-400",
+    "external-calls":"deep-orange-400",
+    "external-access":"deep-orange-400",
+    "call-external":"deep-orange-400",
+    "navigation":"cyan-600",
+    "navigator":"cyan-600",
+    "navigate":"cyan-600",
+    "navi":"cyan-600",  
+    "application":"light-blue-700",  
+    "auto-refresh":"light-blue-400",  
+    "auto-reload":"light-blue-400",  
+    "socket":"amber-400",  
+    "form":"light-green-400",
+    "publish":"deep-purple-400",
+    "out-put":"deep-purple-400",
+    "output":"deep-purple-400"
+    
+}
