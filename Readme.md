@@ -7,7 +7,7 @@ for support material colorized folders
 
 1. first install vscode-icons extension
 2. install npm
-3. run ext-launcher.cmd in root folder
+3. run `ext-launcher.cmd` from root folder
 4. reload **visual studio code** or **visual studio code insiders** for changes
 
 ##  add your colors and keywords
